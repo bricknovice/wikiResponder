@@ -1,4 +1,4 @@
-# wikiResoponder-with-google-search
+# wikiResoponder
 This is a midterm project of "高等資料探勘與巨量資料處理" at NCHU.
 The goal of this project is to build a responder to the question.
 
